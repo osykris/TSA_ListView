@@ -1,16 +1,11 @@
-# startup_namer
+## Create the starter Flutter app
+![image](https://user-images.githubusercontent.com/64391578/188261780-c04dcede-dfea-4380-8534-f4241efcf9b8.png)
 
-A new Flutter project.
+## Use an external package
+![image](https://user-images.githubusercontent.com/64391578/188261788-26f008e5-bbbe-4505-b90d-46398069affb.png)
 
-## Getting Started
+## Add a stateful widget
+![image](https://user-images.githubusercontent.com/64391578/188261799-61c496e8-95a0-48fd-86e3-193397a947c4.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Create an infinite scrolling ListView
+![image](https://user-images.githubusercontent.com/64391578/188261815-d66461e8-b7a9-46d3-982b-3c9bd9e29928.png)
